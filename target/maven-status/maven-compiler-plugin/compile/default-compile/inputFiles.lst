@@ -1,4 +1,6 @@
 C:\Users\sebas\Downloads\CoreToolkit-Lab_P2_BluePrints_Java21_API_Security_JWT\src\main\java\co\edu\eci\blueprints\api\BlueprintController.java
+C:\Users\sebas\Downloads\CoreToolkit-Lab_P2_BluePrints_Java21_API_Security_JWT\src\main\java\co\edu\eci\blueprints\api\BlueprintModels.java
+C:\Users\sebas\Downloads\CoreToolkit-Lab_P2_BluePrints_Java21_API_Security_JWT\src\main\java\co\edu\eci\blueprints\api\BlueprintRepository.java
 C:\Users\sebas\Downloads\CoreToolkit-Lab_P2_BluePrints_Java21_API_Security_JWT\src\main\java\co\edu\eci\blueprints\auth\AuthController.java
 C:\Users\sebas\Downloads\CoreToolkit-Lab_P2_BluePrints_Java21_API_Security_JWT\src\main\java\co\edu\eci\blueprints\BlueprintsApiApplication.java
 C:\Users\sebas\Downloads\CoreToolkit-Lab_P2_BluePrints_Java21_API_Security_JWT\src\main\java\co\edu\eci\blueprints\config\OpenApiConfig.java
@@ -7,3 +9,6 @@ C:\Users\sebas\Downloads\CoreToolkit-Lab_P2_BluePrints_Java21_API_Security_JWT\s
 C:\Users\sebas\Downloads\CoreToolkit-Lab_P2_BluePrints_Java21_API_Security_JWT\src\main\java\co\edu\eci\blueprints\security\MethodSecurityConfig.java
 C:\Users\sebas\Downloads\CoreToolkit-Lab_P2_BluePrints_Java21_API_Security_JWT\src\main\java\co\edu\eci\blueprints\security\RsaKeyProperties.java
 C:\Users\sebas\Downloads\CoreToolkit-Lab_P2_BluePrints_Java21_API_Security_JWT\src\main\java\co\edu\eci\blueprints\security\SecurityConfig.java
+C:\Users\sebas\Downloads\CoreToolkit-Lab_P2_BluePrints_Java21_API_Security_JWT\src\main\java\co\edu\eci\blueprints\ws\BlueprintDrawMessage.java
+C:\Users\sebas\Downloads\CoreToolkit-Lab_P2_BluePrints_Java21_API_Security_JWT\src\main\java\co\edu\eci\blueprints\ws\BlueprintSocketController.java
+C:\Users\sebas\Downloads\CoreToolkit-Lab_P2_BluePrints_Java21_API_Security_JWT\src\main\java\co\edu\eci\blueprints\ws\WebSocketConfig.java
